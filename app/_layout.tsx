@@ -10,7 +10,6 @@ import {
 } from "@react-navigation/drawer";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 
-// Prevent the splash screen from auto-hiding
 SplashScreen.preventAutoHideAsync();
 
 export default function Layout() {
